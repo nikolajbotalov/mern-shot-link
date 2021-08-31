@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "nbotalov test project",
+  "mongoUri": "mongodb://nikolaj:hDmyA_4end@cluster0-shard-00-00.sfn32.mongodb.net:27017,cluster0-shard-00-01.sfn32.mongodb.net:27017,cluster0-shard-00-02.sfn32.mongodb.net:27017/app?ssl=true&replicaSet=atlas-gy3jhd-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
